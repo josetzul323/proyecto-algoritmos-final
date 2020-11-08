@@ -1,3 +1,4 @@
+//fase 1//
 #include<conio.h>
 #include<stdio.h>
 #include<string.h>
